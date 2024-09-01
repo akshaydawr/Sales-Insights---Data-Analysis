@@ -1,4 +1,4 @@
-# Global Superstore Sales Dashboard
+# Global Superstore Sales Data Analysis 
 
 ## Overview
 
@@ -12,7 +12,7 @@ This Power BI dashboard visualizes sales data for a global superstore, leveragin
 
 ## Setup
 
-1. **Prerequisites**: Power BI Desktop and Excell access.
+1. **Prerequisites**: Power BI Desktop and Excel access.
 2. **Connect**: Link Power BI to the Excel database.
 3. **Create & Publish**: Design the dashboard and publish it for use.
 
